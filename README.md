@@ -1,6 +1,8 @@
 ## EB_URL
 http://cdnd-project2-image-filter-dev.us-east-1.elasticbeanstalk.com/
 
+## Full GET URL
+http://cdnd-project2-image-filter-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://general-images-for-public.s3.amazonaws.com/imageTest1.jpg
 
 # Udagram Image Filtering Microservice
 
